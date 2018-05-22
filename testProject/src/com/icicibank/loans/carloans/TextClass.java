@@ -6,7 +6,9 @@ public class TextClass {
 		// TODO Auto-generated method stub
 		System.out.println("this is a test class");
 		System.out.println("this is a test class 2");
-		System.out.println("spaces deleted");
+		
+		
+		   
 	}
 
 }
